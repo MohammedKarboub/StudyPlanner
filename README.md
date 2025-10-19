@@ -1,5 +1,5 @@
 
-````markdown
+
 # Smart Study Planner with Pomodoro Focus Mode
 
 Smart Study Planner is een moderne JavaFX-desktopapplicatie die studenten helpt hun studie te plannen, voortgang bij te houden en gefocust te blijven met een aanpasbare Pomodoro-timer.
